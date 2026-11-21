@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Nothing else — this is a clean document repo
