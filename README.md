@@ -6,7 +6,6 @@ A scoped, audit-ready infrastructure transformation programme for a global inves
 
 An 18-month, S$8.5M programme covering data centre migration (on-prem → colocation + cloud), SD-WAN and firewall modernisation, cybersecurity controls uplift, and disaster recovery validation — designed with governance that stands up to audit from day one.
 
-The programme is scoped for a VP Project Manager, Infrastructure & Cybersecurity Resilience (ICR) role: end-to-end ownership from mobilisation through clean handover, within a 24-month fixed-term contract.
 
 ## Evidence of governance depth
 
